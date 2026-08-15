@@ -1,32 +1,3 @@
-# Test Automation Framework
-
-This is a Java-based test automation framework.
-
-The framework leverages various libraries and tools to facilitate data-driven testing, logging, reporting, and integration with cloud-based testing platform like lambdatest.
-
-
-
-## 🚀 About Me
-Hi, My Name is Jatin Sharma and I have 10 years of experience in Automation Testing using technologies like Selenium Webdriver,
-RestAssured, Appium. 
-
-My major expertise is in Java Programming Language.
-
-
-## Author
-
-- [@jatin99](https://github.com/jatin99)
-- EmailAddress: jatinvsharma@gmail.com
-
-
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/jatin99)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinshharma/)
-
-
 
 
 ## Prerequisites
@@ -70,7 +41,6 @@ Before running this framework, ensure the following software is installed on you
 **Clone the Repository:**
 
 ```bash
-  git clone https://github.com/jatin99/Test-Automation-Framework.git
 
   cd Test-Automation-Framework
 ```
